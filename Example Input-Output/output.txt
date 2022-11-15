@@ -1,0 +1,33 @@
+FILE NAME: text.txt
+
+STATISTICAL SUMMARY
+-------------------
+Total number of words: 73
+Total number of unique words: 11
+Total number of unique words of more than three letters: 6
+Average word length: 5
+Average sentence length: 73
+
+STYLE WARNINGS
+--------------
+Words used too often: 
+1)Bomb
+2)Feelings
+3)Japan
+4)Leaders
+5)Powerful
+6)That
+
+INDEX OF UNIQUE WORDS
+--------------
+Bomb
+Feelings
+In
+Japan
+Leaders
+Of
+Powerful
+That
+The
+To
+Was
